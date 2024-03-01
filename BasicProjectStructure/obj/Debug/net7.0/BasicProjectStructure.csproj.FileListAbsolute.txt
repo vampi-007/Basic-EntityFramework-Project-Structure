@@ -1,0 +1,28 @@
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.exe
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.deps.json
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.runtimeconfig.json
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.pdb
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.AssemblyInfo.cs
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\refint\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.pdb
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.genruntimeconfig.cache
+\\Mac\Home\Desktop\Abdulrehman\C# Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\ref\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.exe
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.deps.json
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.runtimeconfig.json
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\bin\Debug\net7.0\BasicProjectStructure.pdb
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.AssemblyInfo.cs
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\refint\BasicProjectStructure.dll
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.pdb
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\BasicProjectStructure.genruntimeconfig.cache
+\\Mac\Home\Desktop\Abdulrehman\C#Programming\BasicProjectStructure\BasicProjectStructure\obj\Debug\net7.0\ref\BasicProjectStructure.dll
